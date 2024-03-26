@@ -1,0 +1,12 @@
+xpath:
+  LOCATOR_LOGIN_FIELD: //*[@id="login"]/div[1]/label/input
+  LOCATOR_PASS_FIELD: //*[@id="login"]/div[2]/label/input
+  LOCATOR_ERROR_FIELD: //*[@id="app"]/main/div/div/div[2]/h2
+  LOCATOR_LOGIN_ENTER: //*[@id="app"]/main/div/div[1]/h1
+  LOCATOR_HOME: //*[@id="app"]/main/nav/a/span
+
+  LOCATOR_ABOUT_BUTTON: //*[@id="app"]/main/nav/ul/li[1]/a
+  LOCATOR_ABOUT_TITTLE: //*[@id="app"]/main/div/div/h1
+css:
+  LOCATOR_LOGIN_BTN: button
+  LOCATOR_ABOUT_CSS_TITTLE: svelte-z9xc0
